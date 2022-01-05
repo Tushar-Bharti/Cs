@@ -5,4 +5,4 @@
 >
 >[write a c program to find quotient and remainder.](./qandr.md)
 >
->[write a c program to swap the values of two variables.](sawpvars.md)
+>[write a c program to swap the values of two variables.](swapvars.md)
