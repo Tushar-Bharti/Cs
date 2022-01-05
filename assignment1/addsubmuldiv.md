@@ -22,7 +22,7 @@ int div(int a, int b)
 {
     return a / b;
 }
-int main()
+int main(void)
 {
     char type[4];
     printf("What operation do you want to select (add,sub,mul,div)\n");
