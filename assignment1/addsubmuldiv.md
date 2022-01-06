@@ -2,6 +2,25 @@
 ## create a c program to do addition , subtraction , multiplication and division
 
 ### solution
+#### 1) doing all operations on same input
+```c
+#include <stdio.h>
+int main(void)
+{
+    int a, b;
+    printf("Enter Number a:");
+    scanf("%d", &a);
+    printf("Enter Number b:");
+    scanf("%d", &b);
+
+    printf("Answer to this is: \nAddition: %d \n Subtaction: %d \n Multiplication: %d\n Division: %d", a + b, a - b, a * b, a / b);
+    return 0;
+}
+
+```
+![2022-01-06 (13)](https://user-images.githubusercontent.com/96988507/148384891-dc2b6b34-44df-4099-8af2-e8d8c319d081.png)
+
+#### 2) selecting an operation and then do operation on provided input
 ```c
 #include <stdio.h>
 #include <string.h>
