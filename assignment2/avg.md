@@ -20,6 +20,6 @@
 >```
 
 ## Output
- ![image](https://user-images.githubusercontent.com/96988507/149584154-8e76fb5c-a4ea-4258-bc7c-280db35ef70c.png)
+> ![image](https://user-images.githubusercontent.com/96988507/149584154-8e76fb5c-a4ea-4258-bc7c-280db35ef70c.png)
 
 
