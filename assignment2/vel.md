@@ -16,5 +16,5 @@
 >}
 >```
 ## Output
-![image](https://user-images.githubusercontent.com/96988507/149584628-3c448a98-32b9-42a9-96d3-2ce10f0a2522.png)
+>![image](https://user-images.githubusercontent.com/96988507/149584628-3c448a98-32b9-42a9-96d3-2ce10f0a2522.png)
 
