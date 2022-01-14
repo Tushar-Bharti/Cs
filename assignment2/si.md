@@ -18,4 +18,4 @@
 >}
 >```
 ## Output
-![image](https://user-images.githubusercontent.com/96988507/149585090-3c416eea-c1d4-4c34-aecb-adce7a43ad13.png)
+>![image](https://user-images.githubusercontent.com/96988507/149585090-3c416eea-c1d4-4c34-aecb-adce7a43ad13.png)
