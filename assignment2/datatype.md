@@ -42,3 +42,11 @@
 
 ##### note
 > **this can also change for different platform and compiler**
+>
+> examples
+### GeekForGeeks IDE
+> ![image](https://user-images.githubusercontent.com/96988507/149588377-1f4dfd9d-1430-4b4c-b01e-7289432282f6.png)
+### CodeChef IDE
+> ![image](https://user-images.githubusercontent.com/96988507/149588436-96690c82-9836-4e98-8941-e4971566656f.png)
+### Replit IDE
+>![image](https://user-images.githubusercontent.com/96988507/149588562-1192ea7e-9836-404a-91d6-aacff2971f3d.png)
