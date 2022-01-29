@@ -9,7 +9,7 @@
 >
 >**[Write a C Program to enter a number (integer), reverse it and check it whether it is a  palindrome number or not.](./palindrome.md)**
 >
->**[Write a C program to find the palindrome numbers between 1 to 100.](./findpalindrome.md)**
+>**[Write a C program to find the palindrome numbers between 1 to 100.](./findpalindromes.md)**
 >
 >**[Write C programs to print the following pyramids (input value of n).  ](./pyramid.md)**
 >
