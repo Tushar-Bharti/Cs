@@ -8,7 +8,7 @@
 >
 >***[Write a C program to find out whether a 2-dimension matrix is Symmetric or not. A matrix  is said to be a Symmetric matrix if transpose of the matrix is equal to the original matrix. ](./symmetricmatrix.md)***
 >
->***[Write a C program to input a 2-dimension matrix and perform the following operations.](./operationonmatrix.md)***
+>***[Write a C program to input a 2-dimension matrix and perform the following operations.](./operateonmatrix.md)***
 >
 >***[Write a C program input “n” number of elements into an array and perform the following  operations using calling functions.](./performonarray.md)***
 >
